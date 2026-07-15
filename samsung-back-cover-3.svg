@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" role="img" aria-label="Samsung phone with fitted transparent case">
+  <rect width="600" height="800" fill="#f8fafc"/>
+  <rect x="120" y="70" width="360" height="660" rx="50" fill="#0f172a"/>
+  <rect x="140" y="98" width="320" height="604" rx="42" fill="#111827"/>
+  <rect x="165" y="135" width="270" height="530" rx="34" fill="#f8fafc"/>
+  <rect x="170" y="145" width="260" height="500" rx="28" fill="#fef3c7" opacity="0.9"/>
+  <rect x="188" y="170" width="224" height="140" rx="18" fill="#0f172a" opacity="0.92"/>
+  <circle cx="300" cy="240" r="44" fill="#e0f2fe"/>
+  <circle cx="300" cy="240" r="24" fill="#f8fafc"/>
+  <rect x="188" y="360" width="224" height="170" rx="18" fill="#ffffff" opacity="0.84"/>
+  <rect x="204" y="382" width="192" height="34" rx="10" fill="#bfdbfe"/>
+  <rect x="204" y="426" width="152" height="16" rx="8" fill="#cbd5e1"/>
+  <rect x="204" y="452" width="124" height="16" rx="8" fill="#cbd5e1"/>
+  <rect x="172" y="600" width="256" height="44" rx="22" fill="#111827" opacity="0.8"/>
+  <text x="300" y="730" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="26" fill="#0f172a">Samsung back cover</text>
+</svg>
